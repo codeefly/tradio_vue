@@ -7,6 +7,9 @@ body {
 .c-pointer {
   cursor: pointer;
 }
+.profile_log .dropdown-menu {
+  right: 0;
+}
 input[type="range"] {
   z-index: unset !important;
 }
