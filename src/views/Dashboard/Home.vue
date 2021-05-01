@@ -1581,7 +1581,7 @@
                   height="100"
                 />
                 <a href="#" class="news-content">
-                  <h6 class="mt-2 mb-3">
+                  <h6 class="mt-2 mb-4">
                     The Cryptocurrency Act of 2020 Is ‘Dead on Arrival,’
                     Washington Tells Sponsors
                   </h6>
@@ -1594,7 +1594,7 @@
                   alt="..."
                 />
                 <a href="#" class="news-content">
-                  <h6 class="mt-2 mb-3">
+                  <h6 class="mt-2 mb-4">
                     UK Trade Negotiators Eye Blockchain Provisions in Coming US
                     Trade Talks
                   </h6>
@@ -1607,7 +1607,7 @@
                   alt="..."
                 />
                 <a href="#" class="news-content">
-                  <h6 class="mt-2 mb-3">
+                  <h6 class="mt-2 mb-4">
                     Bitcoin Options Saw Record Volume of $198M Amid Recent Price
                     Drop
                   </h6>

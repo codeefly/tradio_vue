@@ -295,3 +295,14 @@ input[type='range'] {
     margin-left  : 0px;
     font-size    : 11px;
 }
+
+
+.media {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .media-body {
+    flex: 1;
+  }
+  
